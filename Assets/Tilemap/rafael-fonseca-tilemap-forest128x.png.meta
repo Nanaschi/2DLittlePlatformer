@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: b6ca8f5171b137e439a7dc7433e5ae08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6439025737379107186
+    second: rafael-fonseca-tilemap-forest128x_0
+  - first:
+      213: -6758335678242943896
+    second: rafael-fonseca-tilemap-forest128x_1
+  - first:
+      213: -7038554591815889866
+    second: rafael-fonseca-tilemap-forest128x_2
+  - first:
+      213: -4811441608113155032
+    second: rafael-fonseca-tilemap-forest128x_3
+  - first:
+      213: -3894345282044510151
+    second: rafael-fonseca-tilemap-forest128x_4
+  - first:
+      213: -8511870652791034237
+    second: rafael-fonseca-tilemap-forest128x_5
+  - first:
+      213: -7181949337350649854
+    second: rafael-fonseca-tilemap-forest128x_6
+  - first:
+      213: 1064145383209241302
+    second: rafael-fonseca-tilemap-forest128x_7
+  - first:
+      213: 6262849376141484748
+    second: rafael-fonseca-tilemap-forest128x_8
+  - first:
+      213: -1605892168248963307
+    second: rafael-fonseca-tilemap-forest128x_9
+  - first:
+      213: 4525291448070481844
+    second: rafael-fonseca-tilemap-forest128x_10
+  - first:
+      213: -7217062574345954963
+    second: rafael-fonseca-tilemap-forest128x_11
+  - first:
+      213: -3044685287684024733
+    second: rafael-fonseca-tilemap-forest128x_12
+  - first:
+      213: 2611691638744769331
+    second: rafael-fonseca-tilemap-forest128x_13
+  - first:
+      213: -4478952606399751713
+    second: rafael-fonseca-tilemap-forest128x_14
+  - first:
+      213: -4933637035139820762
+    second: rafael-fonseca-tilemap-forest128x_15
+  - first:
+      213: -2183053106792410590
+    second: rafael-fonseca-tilemap-forest128x_16
+  - first:
+      213: 4678074679243026071
+    second: rafael-fonseca-tilemap-forest128x_17
+  - first:
+      213: -4667057218059019019
+    second: rafael-fonseca-tilemap-forest128x_18
+  - first:
+      213: 7125488499809243280
+    second: rafael-fonseca-tilemap-forest128x_19
+  - first:
+      213: 5836342502453219139
+    second: rafael-fonseca-tilemap-forest128x_20
+  - first:
+      213: -9210300208685285435
+    second: rafael-fonseca-tilemap-forest128x_21
+  - first:
+      213: -7548479706297170959
+    second: rafael-fonseca-tilemap-forest128x_22
+  - first:
+      213: -4563213011054211291
+    second: rafael-fonseca-tilemap-forest128x_23
+  - first:
+      213: 1866605473061067497
+    second: rafael-fonseca-tilemap-forest128x_24
+  - first:
+      213: 1065024944486448019
+    second: rafael-fonseca-tilemap-forest128x_25
+  - first:
+      213: -4205207476979899271
+    second: rafael-fonseca-tilemap-forest128x_26
+  - first:
+      213: -4358944214388871522
+    second: rafael-fonseca-tilemap-forest128x_27
+  - first:
+      213: -5637124197360805134
+    second: rafael-fonseca-tilemap-forest128x_28
+  - first:
+      213: -1251429134760020301
+    second: rafael-fonseca-tilemap-forest128x_29
+  - first:
+      213: -340259283999646822
+    second: rafael-fonseca-tilemap-forest128x_30
+  - first:
+      213: -2884463144935418283
+    second: rafael-fonseca-tilemap-forest128x_31
+  - first:
+      213: -4110429824121655672
+    second: rafael-fonseca-tilemap-forest128x_32
+  - first:
+      213: 6984203918405693341
+    second: rafael-fonseca-tilemap-forest128x_33
+  - first:
+      213: -1108027988654270070
+    second: rafael-fonseca-tilemap-forest128x_34
+  - first:
+      213: -7633013871295146195
+    second: rafael-fonseca-tilemap-forest128x_35
+  - first:
+      213: -8421249443313684167
+    second: rafael-fonseca-tilemap-forest128x_36
+  - first:
+      213: -1448862780252321882
+    second: rafael-fonseca-tilemap-forest128x_37
+  - first:
+      213: -8362003956101016916
+    second: rafael-fonseca-tilemap-forest128x_38
+  - first:
+      213: 8423514566811293613
+    second: rafael-fonseca-tilemap-forest128x_39
+  - first:
+      213: -1907958967388826183
+    second: rafael-fonseca-tilemap-forest128x_40
+  - first:
+      213: -8478667232336452362
+    second: rafael-fonseca-tilemap-forest128x_41
+  - first:
+      213: 7631707289814961463
+    second: rafael-fonseca-tilemap-forest128x_42
+  - first:
+      213: -8720987481644456231
+    second: rafael-fonseca-tilemap-forest128x_43
+  - first:
+      213: -2866957503848038202
+    second: rafael-fonseca-tilemap-forest128x_44
+  - first:
+      213: 780483933339094561
+    second: rafael-fonseca-tilemap-forest128x_45
+  - first:
+      213: -1339045371232281598
+    second: rafael-fonseca-tilemap-forest128x_46
+  - first:
+      213: -1851868121656818534
+    second: rafael-fonseca-tilemap-forest128x_47
+  - first:
+      213: 3306271390610988643
+    second: rafael-fonseca-tilemap-forest128x_48
+  - first:
+      213: -3591553259949356304
+    second: rafael-fonseca-tilemap-forest128x_49
+  - first:
+      213: -5554366660581595417
+    second: rafael-fonseca-tilemap-forest128x_50
+  - first:
+      213: 8832876756546504022
+    second: rafael-fonseca-tilemap-forest128x_51
+  - first:
+      213: 6139400498888101282
+    second: rafael-fonseca-tilemap-forest128x_52
+  - first:
+      213: -6817974239639663168
+    second: rafael-fonseca-tilemap-forest128x_53
+  - first:
+      213: 1210499270716527499
+    second: rafael-fonseca-tilemap-forest128x_54
+  - first:
+      213: 7454766554666117561
+    second: rafael-fonseca-tilemap-forest128x_55
+  - first:
+      213: 4936184466322645187
+    second: rafael-fonseca-tilemap-forest128x_56
+  - first:
+      213: 5482491531733880909
+    second: rafael-fonseca-tilemap-forest128x_57
+  - first:
+      213: 4753980071969190255
+    second: rafael-fonseca-tilemap-forest128x_58
+  - first:
+      213: 5989121963882719333
+    second: rafael-fonseca-tilemap-forest128x_59
+  - first:
+      213: -1944328016825807291
+    second: rafael-fonseca-tilemap-forest128x_60
+  - first:
+      213: -4868773583292994324
+    second: rafael-fonseca-tilemap-forest128x_61
+  - first:
+      213: 9135232268593661381
+    second: rafael-fonseca-tilemap-forest128x_62
+  - first:
+      213: -8996127077679053149
+    second: rafael-fonseca-tilemap-forest128x_63
+  - first:
+      213: 3975608201343193210
+    second: rafael-fonseca-tilemap-forest128x_64
+  - first:
+      213: -6336997478926189815
+    second: rafael-fonseca-tilemap-forest128x_65
+  - first:
+      213: 5982528477482832306
+    second: rafael-fonseca-tilemap-forest128x_66
+  - first:
+      213: -5185348284437962687
+    second: rafael-fonseca-tilemap-forest128x_67
+  - first:
+      213: -6731369038435352030
+    second: rafael-fonseca-tilemap-forest128x_68
+  - first:
+      213: 7243567622724603111
+    second: rafael-fonseca-tilemap-forest128x_69
+  - first:
+      213: -8654727986292254644
+    second: rafael-fonseca-tilemap-forest128x_70
+  - first:
+      213: -3227715377880109373
+    second: rafael-fonseca-tilemap-forest128x_71
+  - first:
+      213: 7212465488149338661
+    second: rafael-fonseca-tilemap-forest128x_72
+  - first:
+      213: 896199862267567327
+    second: rafael-fonseca-tilemap-forest128x_73
+  - first:
+      213: -2760355110266104752
+    second: rafael-fonseca-tilemap-forest128x_74
+  - first:
+      213: 3639942033287875297
+    second: rafael-fonseca-tilemap-forest128x_75
+  - first:
+      213: 8919825619880308995
+    second: rafael-fonseca-tilemap-forest128x_76
+  - first:
+      213: -3009141608956433549
+    second: rafael-fonseca-tilemap-forest128x_77
+  - first:
+      213: -5847132329334108310
+    second: rafael-fonseca-tilemap-forest128x_78
+  - first:
+      213: 1680201258596682871
+    second: rafael-fonseca-tilemap-forest128x_79
+  - first:
+      213: 3893738850285068530
+    second: rafael-fonseca-tilemap-forest128x_80
+  - first:
+      213: -8930668414927496122
+    second: rafael-fonseca-tilemap-forest128x_81
+  - first:
+      213: 8337384702971009883
+    second: rafael-fonseca-tilemap-forest128x_82
+  - first:
+      213: 811802831300539376
+    second: rafael-fonseca-tilemap-forest128x_83
+  - first:
+      213: -997123928472027708
+    second: rafael-fonseca-tilemap-forest128x_84
+  - first:
+      213: -8328456030633146242
+    second: rafael-fonseca-tilemap-forest128x_85
+  - first:
+      213: 2333373785857079946
+    second: rafael-fonseca-tilemap-forest128x_86
+  - first:
+      213: 8239597593074238053
+    second: rafael-fonseca-tilemap-forest128x_87
+  - first:
+      213: 4947560321556652673
+    second: rafael-fonseca-tilemap-forest128x_88
+  - first:
+      213: -4848356851535197881
+    second: rafael-fonseca-tilemap-forest128x_89
+  - first:
+      213: -6791249968558911848
+    second: rafael-fonseca-tilemap-forest128x_90
+  - first:
+      213: -2960382429360624776
+    second: rafael-fonseca-tilemap-forest128x_91
+  - first:
+      213: -8246320031442114485
+    second: rafael-fonseca-tilemap-forest128x_92
+  - first:
+      213: 4003341960683532745
+    second: rafael-fonseca-tilemap-forest128x_93
+  - first:
+      213: 4485645591883331927
+    second: rafael-fonseca-tilemap-forest128x_94
+  - first:
+      213: 4077010816812141896
+    second: rafael-fonseca-tilemap-forest128x_95
+  - first:
+      213: 2408383198313175796
+    second: rafael-fonseca-tilemap-forest128x_96
+  - first:
+      213: -1181850411709350629
+    second: rafael-fonseca-tilemap-forest128x_97
+  - first:
+      213: -2021122522400888725
+    second: rafael-fonseca-tilemap-forest128x_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715410fac30c5950800000000000000
+      internalID: 6439025737379107186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0b7102819532a0800000000000000
+      internalID: -6758335678242943896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c8e9ef3e7025e90800000000000000
+      internalID: -7038554591815889866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82491ea79535a3db0800000000000000
+      internalID: -4811441608113155032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c40f599184f9c0800000000000000
+      internalID: -3894345282044510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e61563db2cfd980800000000000000
+      internalID: -8511870652791034237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208cc581127945c90800000000000000
+      internalID: -7181949337350649854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da0f83869a94ce00800000000000000
+      internalID: 1064145383209241302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a0ba535c1ae650800000000000000
+      internalID: 6262849376141484748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f40f3d499b6b9e0800000000000000
+      internalID: -1605892168248963307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7aa5398901dce30800000000000000
+      internalID: 4525291448070481844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d75683d7d7db90800000000000000
+      internalID: -7217062574345954963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665cbebcda1fb5d0800000000000000
+      internalID: -3044685287684024733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336d3645b79e3420800000000000000
+      internalID: 2611691638744769331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99bb1c55097d1c0800000000000000
+      internalID: -4478952606399751713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62397cd8143388bb0800000000000000
+      internalID: -4933637035139820762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22253d304cc34b1e0800000000000000
+      internalID: -2183053106792410590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea701a22cdbe040800000000000000
+      internalID: 4678074679243026071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5b23ff284b3fb0800000000000000
+      internalID: -4667057218059019019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d242c902d2e260800000000000000
+      internalID: 7125488499809243280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0d3e659adef050800000000000000
+      internalID: 5836342502453219139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7b9a22c07e2080800000000000000
+      internalID: -9210300208685285435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f389ef53b96e3790800000000000000
+      internalID: -7548479706297170959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4ca181f53ca0c0800000000000000
+      internalID: -4563213011054211291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eada9db9c387e910800000000000000
+      internalID: 1866605473061067497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7b055b8ab7ce00800000000000000
+      internalID: 1065024944486448019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ebcf641a14a5c0800000000000000
+      internalID: -4205207476979899271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6b99e45be183c0800000000000000
+      internalID: -4358944214388871522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fadc85c869e4c1b0800000000000000
+      internalID: -5637124197360805134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6fd0115d702aee0800000000000000
+      internalID: -1251429134760020301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1ca5ebf7274bf0800000000000000
+      internalID: -340259283999646822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561b6e5d0458f7d0800000000000000
+      internalID: -2884463144935418283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eae0b5ad1d4f6c0800000000000000
+      internalID: -4110429824121655672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f667bb570ece060800000000000000
+      internalID: 6984203918405693341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8952173a6e7f90f0800000000000000
+      internalID: -1108027988654270070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27d2d35356121690800000000000000
+      internalID: -7633013871295146195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f45ebf36b12b80800000000000000
+      internalID: -8421249443313684167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a786ce4afa94ebe0800000000000000
+      internalID: -1448862780252321882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2103aa4b134fb80800000000000000
+      internalID: -8362003956101016916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79d1b6ed556e470800000000000000
+      internalID: 8423514566811293613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b594ce8d619585e0800000000000000
+      internalID: -1907958967388826183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f467d7f219b55a80800000000000000
+      internalID: -8478667232336452362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0e27785549e960800000000000000
+      internalID: 7631707289814961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d624f95714d8f680800000000000000
+      internalID: -8720987481644456231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04ffc07558638d0800000000000000
+      internalID: -2866957503848038202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e839f8006d4da00800000000000000
+      internalID: 780483933339094561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c91955451ca6de0800000000000000
+      internalID: -1339045371232281598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9486c541c7dc46e0800000000000000
+      internalID: -1851868121656818534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9768ff4c32ed20800000000000000
+      internalID: 3306271390610988643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa82d4c65d382ec0800000000000000
+      internalID: -3591553259949356304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6e2c353fceae2b0800000000000000
+      internalID: -5554366660581595417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65542ca8c9ea49a70800000000000000
+      internalID: 8832876756546504022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc41ec938833550800000000000000
+      internalID: 6139400498888101282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd838e5d80b161a0800000000000000
+      internalID: -6817974239639663168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839de75cae8cc010800000000000000
+      internalID: 1210499270716527499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b926563fa6a47760800000000000000
+      internalID: 7454766554666117561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c066fc7e99d08440800000000000000
+      internalID: 4936184466322645187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d5192009b51c40800000000000000
+      internalID: 5482491531733880909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61720310b789f140800000000000000
+      internalID: 4753980071969190255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56828b5c1b2ad1350800000000000000
+      internalID: 5989121963882719333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e024e58fb5405e0800000000000000
+      internalID: -1944328016825807291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_61
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece30cc834ae6cb0800000000000000
+      internalID: -4868773583292994324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rafael-fonseca-tilemap-forest128x_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c50636095dd6ce70800000000000000
+      internalID: 9135232268593661381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
